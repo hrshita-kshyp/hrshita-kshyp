@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshita
 - 👀 I’m interested in Competitive programing and Web Development
-- 🌱 I’m currently learning C++ and Kotlin
+- 🌱 I’m currently learning C++ ,Python and Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn:https://www.linkedin.com/in/harshita-a8a620207/ 
                      Instagram:https://www.instagram.com/coder_harshita/
