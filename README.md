@@ -3,10 +3,10 @@
 # Hi, I’m Harshita  
 <img align="right" width="196" height="200" src="https://user-images.githubusercontent.com/85073963/122176874-b31d5580-cea2-11eb-807b-df1e7676d704.gif">
 
-- 👀 I’m interested in Competitive programing and Web Development
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: hrsa.kshyp@gmail.com
+-I’m interested in Competitive programing and Web Development
+- I’m currently learning C++ and Python
+#### How to reach me:
+**email**: hrsa.kshyp@gmail.com
 
 **SOCIAL ACCOUNTS:**  
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/harshita.kashyap.10004)
