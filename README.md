@@ -20,6 +20,7 @@
 <img align="left"  width=" 26px" src="https://user-images.githubusercontent.com/85073963/124342372-246a4180-dbe1-11eb-9da8-311726afa054.jpg">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="left" alt="CPP" width="26px" src="https://user-images.githubusercontent.com/85073963/124342715-875cd800-dbe3-11eb-8d0a-178c55babb72.png">
 
 <br />
 <br />
