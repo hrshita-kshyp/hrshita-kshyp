@@ -6,22 +6,28 @@
 - I’m currently learning C++ and Python
 
 
+### Connect with me:
 
-### SOCIAL ACCOUNTS  
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/harshita.kashyap.10004)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/coder_harshita/)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harshita-a8a620207/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Hrshita_kshyp)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/hrshita-kshyp)
-[<img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white">](https://www.quora.com/profile/Harshita-485?ch=10&share=2286b118&srid=uSxqk9)
+[<img align="left" alt="Harshita | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCrYG0znz7bGfkaCTAJBQ82w)
+[<img align="left" alt="Harshita | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Hrshita_kshyp)
+[<img align="left" alt="Harshita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harshita-a8a620207/)
+[<img align="left" alt="Harshita | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/coder_harshita/)
+  
+<br />
+<br />
+ 
+### Languages and Tools: 
+<img align="left"  width=" 26px" src="https://user-images.githubusercontent.com/85073963/124342372-246a4180-dbe1-11eb-9da8-311726afa054.jpg">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+
+<br />
+<br />
 
 
-### CP ACCOUNT  
-[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/happyharshita201)
+### CP ACCOUNT [<img align="center"  width="40px" src="https://user-images.githubusercontent.com/85073963/124229479-4ef9c300-db2b-11eb-972a-525b1dee6657.png">](https://www.hackerrank.com/happyharshita201)
 
-### LANGUAGES
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-
+<br />
 
 
 ![Harshita's github stats](https://github-readme-stats.vercel.app/api?username=hrshita-kshyp&count_private=true&theme=tokyonight&hide=contribs,prs)
