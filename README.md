@@ -39,7 +39,8 @@
 ![Harshita's github stats](https://github-readme-stats.vercel.app/api?username=hrshita-kshyp&count_private=true&theme=tokyonight&hide=contribs,prs)
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshita-kshyp)](https://github.com/hrshita-kshyp/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshita-kshyp&theme=tokyonight)]()
+
 
 
 <!---
