@@ -37,10 +37,14 @@
 <br />
 
 
-![Harshita's github stats](https://github-readme-stats.vercel.app/api?username=hrshita-kshyp&count_private=true&theme=tokyonight&hide=contribs,prs)
-</details>
+
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrshita-kshyp&show_icons=true&theme=tokyonight)
+
+
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshita-kshyp&theme=tokyonight)]()
+
+
 
 
 
