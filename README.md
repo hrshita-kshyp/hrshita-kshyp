@@ -11,7 +11,7 @@
 [<img align="left" alt="Harshita | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCrYG0znz7bGfkaCTAJBQ82w)
 [<img align="left" alt="Harshita | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Hrshita_kshyp)
 [<img align="left" alt="Harshita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harshita-kshyp/)
-[<img align="left" alt="Harshita | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/coder_harshita/)
+[<img align="left" alt="Harshita | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/coder_omega/)
   
 <br />
 <br />
