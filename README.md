@@ -32,8 +32,6 @@
 
 <br>
 
-### CP ACCOUNT
-[<img align="center"  width="100px" src="https://user-images.githubusercontent.com/85073963/131246591-938870c2-c84f-4a57-b4b0-c1d548f2ed79.png"/>](https://www.hackerrank.com/happyharshita201)
 
 <br />
 
