@@ -1,4 +1,7 @@
 
+[![Header](https://user-images.githubusercontent.com/85073963/152482266-ab09b562-f7ea-4f95-a852-325fd7b0eb74.png "Header")](https://www.linkedin.com/in/harshita-kshyp/)
+
+
 
 #  I’m Harshita  <img align="left" width="96" height="100" src="https://user-images.githubusercontent.com/85073963/123736098-21f4a880-d8be-11eb-9601-c490a4d30a6e.gif">
 
