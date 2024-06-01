@@ -55,4 +55,3 @@ I'm a passionate B.Tech student in Civil Engineering from BIT Sindri, graduating
 Feel free to reach out if you have any questions or just want to connect!
 
 ![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-lightgrey?style=for-the-badge)
-```
