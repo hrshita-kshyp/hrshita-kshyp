@@ -11,17 +11,16 @@ I'm a passionate B.Tech student in Civil Engineering from BIT Sindri, graduating
 
 - 🎓 Studying Civil Engineering at BIT Sindri
 - 💼 Aspiring to bridge the gap between technology and civil engineering
-- 🔭 Currently working on a Student Database Management System project
 - 🌱 Learning MERN stack for web development
 - 💬 Ask me about civil engineering, project management, and web development
 - 📚 Avid reader and always eager to learn new things
-- 💡 Exploring green technologies in construction
+
 
 ### Skills
 
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-- **Programming Languages**: C++, JavaScript
+- **Programming Languages**: C++, JavaScript, Python
 - **Web Development**: React, Node.js, Express, MongoDB
 - **Software**: AutoCAD, STAAD Pro, Revit
 - **Tools**: Git, Figma
