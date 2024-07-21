@@ -3,7 +3,6 @@
 
 ![Welcome](https://img.shields.io/badge/Welcome-Hello-brightgreen) 
 
-I'm a passionate B.Tech student in Civil Engineering from BIT Sindri, graduating in June 2024. I have a keen interest in combining technology with traditional engineering to create innovative solutions.
 
 ![Coding](https://user-images.githubusercontent.com/74038190/216021303-a19aa310-7350-4730-b66f-d0ef19b66561.gif)
 
