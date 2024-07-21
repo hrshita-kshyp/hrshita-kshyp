@@ -3,15 +3,13 @@
 
 ![Welcome](https://img.shields.io/badge/Welcome-Hello-brightgreen) 
 
-
 ![Coding](https://user-images.githubusercontent.com/74038190/216021303-a19aa310-7350-4730-b66f-d0ef19b66561.gif)
 
 ### About Me
 
-- 🎓 Studying Civil Engineering at BIT Sindri
-- 💼 Aspiring to bridge the gap between technology and civil engineering
-- 🌱 Learning MERN stack for web development
-- 💬 Ask me about civil engineering, project management, and web development
+- 💼 Aspiring to bridge the gap between technology and civil engineering 
+- 🌱 MERN stack
+- 💬 Ask me about civil engineering, project management, and Full stack development
 - 📚 Avid reader and always eager to learn new things
 
 
