@@ -23,14 +23,6 @@
 - **Tools**: Git, Figma
 - **Other**: Data Management, Collaborative Work
 
-### Projects
-
-- **[Minesweeper Game](https://github.com/hrshita-kshyp/minesweeper-game)**: Classic Minesweeper game implemented in C++
-- **[Student Database Management System](https://github.com/hrshita-kshyp/Student-Database-management.git)**: A project to manage student data efficiently
-- **[FitnessTracker](https://github.com/hrshita-kshyp/fitnesstracker)**: A full-stack web application using the MERN stack to help users track and manage their workout routines
-
-![Projects](https://user-images.githubusercontent.com/74038190/216021300-5b8fbd44-2432-4c24-8af3-bcfb0bda8e3a.gif)
-
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harshita-kshyp) [![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github)](https://github.com/hrshita-kshyp) [![Email](https://img.shields.io/badge/Email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrsa.kshyp@gmail.com)
