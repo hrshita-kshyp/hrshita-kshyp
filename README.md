@@ -7,7 +7,7 @@
 
 ### About Me
 
--- A tech-savvy individual learning new tech stacks to solve problems.
+--  A tech-savvy individual learning new tech stacks to solve problems.
 -- Java Developer by profession.
 
 
