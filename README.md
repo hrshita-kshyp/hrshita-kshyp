@@ -7,19 +7,14 @@
 
 ### About Me
 
-- 💼 Aspiring to bridge the gap between technology and civil engineering 
-- 🌱 MERN stack
-- 💬 Ask me about civil engineering, project management, and Full stack development
-- 📚 Avid reader and always eager to learn new things
+-- A tech-savvy individual learning new tech stacks to solve problems.
+-- Java Developer by profession.
 
 
 ### Skills
 
-![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-- **Programming Languages**: C++, JavaScript, Python
-- **Web Development**: React, Node.js, Express, MongoDB
-- **Software**: AutoCAD, STAAD Pro, Revit
+- **Programming Languages**: Java,Javascript,C++
+- **Web Development**: React, Node.js, Express, MongoDB,SpringBoot,Angular,JSP,Servlet
 - **Tools**: Git, Figma
 - **Other**: Data Management, Collaborative Work
 
@@ -40,6 +35,6 @@
 
 ---
 
-Feel free to reach out if you have any questions or just want to connect!
+Feel free to reach out if you have any questions or want to connect!
 
 ![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-lightgrey?style=for-the-badge)
