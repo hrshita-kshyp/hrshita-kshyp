@@ -3,7 +3,7 @@
 ### About Me
 
 - A tech-savvy individual learning new tech stacks to solve problems.
-- Java Developer by profession.
+- Full Stack and React Native Developer by profession.
 
 
 ### Skills
