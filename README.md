@@ -1,31 +1,70 @@
+# 👋 Hello, I'm Harshita
 
-## Hi there, I'm Harshita 👋
-### About Me
+🚀 **Full Stack Developer** | 🌍 **Remote Job Seeker** | 💡 **Passionate About Building Impactful Digital Products**
 
-- A tech-savvy individual learning new tech stacks to solve problems.
-- Full Stack and React Native Developer by profession.
-
-
-### Skills
-
-- **Programming Languages**: Java,Javascript,C++
-- **Web Development**: React, Node.js, Express, MongoDB, SpringBoot,Angular, JSP, Servlet
-- **Tools**: Git, Figma
-- **Other**: Data Management, Collaborative Work
-
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harshita-kshyp) [![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github)](https://github.com/hrshita-kshyp) [![Email](https://img.shields.io/badge/Email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrsa.kshyp@gmail.com)
-
-### Fun Fact
-- 🎶 I love listening to music while coding
-
-![Music](https://media.tenor.com/15YUsMWt4FEAAAAj/music.gif)
-
-
+I'm a developer with a strong passion for creating seamless, user-focused web applications. With expertise in the **MERN** and **MEAN** stacks, I love transforming ideas into interactive, dynamic, and efficient digital solutions.
 
 ---
 
-Feel free to reach out if you have any questions or want to connect!
+## **Featured Project — Hirvana** 
 
-![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-lightgrey?style=for-the-badge)
+**Hirvana** is your **AI-powered career copilot** and **human mentorship platform**. It empowers you to discover the right career opportunities, improve your application strategy, and accelerate your job readiness with personalized guidance and cutting-edge AI tools.
+
+### 🚀 Key Features:
+- ✨ **AI Resume & Job Assistant**  
+  Tailor your resume and job strategy using AI-driven insights and recommendations.
+
+- 🤝 **Personalized Mentorship**  
+  Receive 1:1 guidance from experienced mentors to navigate your career journey.
+
+- 📊 **Opportunity Discovery**  
+  Smart algorithms match you with the right job openings that fit your unique skill set and aspirations.
+
+- 📈 **Career Growth Dashboard**  
+  Visualize your progress with insights into your application trends, job readiness, and skill development.
+
+### 💻 **Tech Stack:**
+- **Frontend:** React, Tailwind CSS, Figma  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT  
+- **Hosting:** Netlify (Frontend), Render/Heroku (suggested for backend)  
+
+🔗 **Live Demo:** [hirvanaa.netlify.app](https://hirvanaa.netlify.app/)  
+📎 **Status:** In Development  
+🔮 **Vision:** Bridging the gap between ambition and opportunity, powered by AI and mentorship.
+
+---
+
+## 💼 **Other Projects**  
+
+### 🏋️ **FitnessTracker**  
+Track and manage your fitness journey with this MERN stack-based app.  
+**Tech Used:** React, Node.js, Express, MongoDB
+
+---
+
+## 🔧 **My Toolbox:**
+
+- **Languages:** JavaScript, TypeScript, C++, Java  
+- **Frontend:** React, Angular, HTML, CSS, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **UI/UX Design:** Figma, Overleaf  
+- **Version Control:** Git, GitHub  
+- **Hosting & Deployment:** Netlify, Heroku, Render  
+- **APIs & Tools:** Postman, JWT, bcrypt  
+
+---
+
+## 📫 **Let’s Connect!**
+
+- 🔗 [LinkedIn](https://linkedin.com/in/harshita-kshyp)  
+- 📁 [GitHub](https://github.com/hrshita-kshyp)  
+- 📧 hrsa.kshyp@gmail.com
+
+---
+
+> "Empowering people through technology, one project at a time."  
+> _Let's build the future of work together._
+
