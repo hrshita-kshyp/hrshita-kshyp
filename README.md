@@ -1,70 +1,45 @@
-# 👋 Hello, I'm Harshita
+# 🚀 Hey, I’m Harshita Kashyap  
 
-🚀 **Full Stack Developer** | 🌍 **Remote Job Seeker** | 💡 **Passionate About Building Impactful Digital Products**
+> “Code. Ship. Learn. Repeat.”  
 
-I'm a developer with a strong passion for creating seamless, user-focused web applications. With expertise in the **MERN** and **MEAN** stacks, I love transforming ideas into interactive, dynamic, and efficient digital solutions.
-
----
-
-## **Featured Project — Hirvana** 
-
-**Hirvana** is your **AI-powered career copilot** and **human mentorship platform**. It empowers you to discover the right career opportunities, improve your application strategy, and accelerate your job readiness with personalized guidance and cutting-edge AI tools.
-
-### 🚀 Key Features:
-- ✨ **AI Resume & Job Assistant**  
-  Tailor your resume and job strategy using AI-driven insights and recommendations.
-
-- 🤝 **Personalized Mentorship**  
-  Receive 1:1 guidance from experienced mentors to navigate your career journey.
-
-- 📊 **Opportunity Discovery**  
-  Smart algorithms match you with the right job openings that fit your unique skill set and aspirations.
-
-- 📈 **Career Growth Dashboard**  
-  Visualize your progress with insights into your application trends, job readiness, and skill development.
-
-### 💻 **Tech Stack:**
-- **Frontend:** React, Tailwind CSS, Figma  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Authentication:** JWT  
-- **Hosting:** Netlify (Frontend), Render/Heroku (suggested for backend)  
-
-🔗 **Live Demo:** [hirvanaa.netlify.app](https://hirvanaa.netlify.app/)  
-📎 **Status:** In Development  
-🔮 **Vision:** Bridging the gap between ambition and opportunity, powered by AI and mentorship.
+I’m a **Full Stack Developer** who loves turning ideas into production-ready software.  
+Currently at **TCS**, building real-world apps and constantly leveling up my craft.  
 
 ---
 
-## 💼 **Other Projects**  
-
-### 🏋️ **FitnessTracker**  
-Track and manage your fitness journey with this MERN stack-based app.  
-**Tech Used:** React, Node.js, Express, MongoDB
-
----
-
-## 🔧 **My Toolbox:**
-
-- **Languages:** JavaScript, TypeScript, C++, Java  
-- **Frontend:** React, Angular, HTML, CSS, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **UI/UX Design:** Figma, Overleaf  
-- **Version Control:** Git, GitHub  
-- **Hosting & Deployment:** Netlify, Heroku, Render  
-- **APIs & Tools:** Postman, JWT, bcrypt  
+## 🧑‍💻 What I Do
+- 🖌️ Craft **user-friendly UIs** with React, Next.js & Tailwind  
+- ⚙️ Build **scalable backends** with Node.js & Express  
+- 🗄️ Manage data with MongoDB & MySQL  
+- ☁️ Deploy & ship fast using Vercel, Netlify & Docker  
 
 ---
 
-## 📫 **Let’s Connect!**
+## 🔥 Featured Projects
+✨ [Portfolio Website](https://portfolio-hrshita.vercel.app) — My work, skills & journey in one place  
+📄 [Resume Website](https://resume-three-teal.vercel.app/) — An interactive version of my CV  
+📱 [AI Content Ecosystem]([repo-link](https://ai-content-studio-one.vercel.app/))   
 
-- 🔗 [LinkedIn](https://linkedin.com/in/harshita-kshyp)  
-- 📁 [GitHub](https://github.com/hrshita-kshyp)  
-- 📧 hrsa.kshyp@gmail.com
 
 ---
 
-> "Empowering people through technology, one project at a time."  
-> _Let's build the future of work together._
+## 📊 GitHub At a Glance
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshita-kshyp&layout=compact&theme=radical)  
 
+---
+
+## 🛠️ Tech Toolbox
+`React` · `Next.js` · `TypeScript` · `Node.js` · `Express.js`  
+`MongoDB` · `MySQL` · `Tailwind CSS` · `Docker` · `Git/GitHub`  
+
+---
+
+## 🌟 Let’s Connect
+💼 [Portfolio](https://portfolio-hrshita.vercel.app)  
+📄 [Resume Website](https://resume-three-teal.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshita-kshyp/)  
+💻 [GitHub](https://github.com/hrshita-kshyp/)  
+
+---
+
+💡 Always open to collaborating on **impactful projects** — if you have something exciting, let’s build it together!  
