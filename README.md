@@ -8,8 +8,8 @@ Currently at **TCS**, building real-world apps and constantly leveling up my cra
 ---
 
 ## 🧑‍💻 What I Do
-- 🖌️ Craft **user-friendly UIs** with React, Next.js & Tailwind  
-- ⚙️ Build **scalable backends** with Node.js & Express  
+- 🖌️ Craft **user-friendly UIs** with React, Angular, Next.js & Tailwind  
+- ⚙️ Build **scalable backends** 
 - 🗄️ Manage data with MongoDB & MySQL  
 - ☁️ Deploy & ship fast using Vercel, Netlify & Docker  
 
@@ -29,7 +29,7 @@ Currently at **TCS**, building real-world apps and constantly leveling up my cra
 ---
 
 ## 🛠️ Tech Toolbox
-`React` · `Next.js` · `TypeScript` · `Node.js` · `Express.js`  
+`React` ·`Angular`· `Next.js` · `TypeScript` · `Node.js` · `Express.js`  
 `MongoDB` · `MySQL` · `Tailwind CSS` · `Docker` · `Git/GitHub`  
 
 ---
