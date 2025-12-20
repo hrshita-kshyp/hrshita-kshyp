@@ -1,4 +1,4 @@
-# 🚀 Hey, I’m Harshita Kashyap  
+# Hey, I’m Harshita Kashyap  
 
 > “Code. Ship. Learn. Repeat.”  
 
@@ -7,19 +7,11 @@ Currently at **TCS**, building real-world apps and constantly leveling up my cra
 
 ---
 
-## 🧑‍💻 What I Do
+## What I Do
 - 🖌️ Craft **user-friendly UIs** with React, Angular, Next.js & Tailwind  
 - ⚙️ Build **scalable backends** 
 - 🗄️ Manage data with MongoDB & MySQL  
 - ☁️ Deploy & ship fast using Vercel, Netlify & Docker  
-
----
-
-## 🔥 Featured Projects
-✨ [Portfolio Website](https://portfolio-hrshita.vercel.app) — My work, skills & journey in one place  
-📄 [Resume Website](https://resume-three-teal.vercel.app/) — An interactive version of my CV  
-📱 [AI Content Ecosystem]([repo-link](https://ai-content-studio-one.vercel.app/))   
-
 
 ---
 
