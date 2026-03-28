@@ -1,37 +1,90 @@
-# Hey, I’m Harshita Kashyap  
+<div align="center">
 
-> “Code. Ship. Learn. Repeat.”  
+# hey, I'm Harshita 👋
 
-I’m a **Full Stack Developer** who loves turning ideas into production-ready software.  
-Currently at **TCS**, building real-world apps and constantly leveling up my craft.  
+**full-stack developer** · building real things · open to opportunities
 
----
+[![Portfolio](https://img.shields.io/badge/hrshita.online-000?style=flat-square&logo=vercel&logoColor=white)](https://hrshita.online)
+[![Vyntra](https://img.shields.io/badge/Vyntra-6C63FF?style=flat-square&logoColor=white)](https://vyntra-delta.vercel.app)
 
-## What I Do
-- 🖌️ Craft **user-friendly UIs** with React, Angular, Next.js & Tailwind  
-- ⚙️ Build **scalable backends** 
-- 🗄️ Manage data with MongoDB & MySQL  
-- ☁️ Deploy & ship fast using Vercel, Netlify & Docker  
+</div>
 
 ---
 
-## 📊 GitHub At a Glance
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshita-kshyp&layout=compact&theme=radical)  
+### `$ whoami`
+
+```ts
+const harshita = {
+  role      : "Full-Stack Developer",
+  experience: "~1.5 years",
+  stack     : ["Angular", "Node.js", "MongoDB", "React", "Next.js", "Flutter"],
+  building  : "Vyntra — a predictive health intelligence platform",
+  openTo    : "Full-Stack / Angular roles",
+};
+```
 
 ---
 
-## 🛠️ Tech Toolbox
-`React` ·`Angular`· `Next.js` · `TypeScript` · `Node.js` · `Express.js`  
-`MongoDB` · `MySQL` · `Tailwind CSS` · `Docker` · `Git/GitHub`  
+### 🛠 Stack
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🌟 Let’s Connect
-💼 [Portfolio](https://portfolio-hrshita.vercel.app)  
-📄 [Resume Website](https://resume-three-teal.vercel.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/harshita-kshyp/)  
-💻 [GitHub](https://github.com/hrshita-kshyp/)  
+### 🔥 What I'm Building
+
+#### [Vyntra](https://github.com/hrshita-kshyp/Vyntra) — Predictive Health Intelligence
+> *Know your body. Not just your steps.*
+
+Most fitness apps count steps. Vyntra computes your **BioAge Score** — your biological age based on HRV, sleep, strain, and recovery — and tells you *why* it's changing.
+
+`React 19` `Vite` `Tailwind 4` `Groq (Llama 3.3)` `Supabase` `Google Fit API (coming)`
+
+**Shipping next:** Google Fit OAuth → BioAge algorithm → Stripe → AI Why Engine
 
 ---
 
-💡 Always open to collaborating on **impactful projects** — if you have something exciting, let’s build it together!  
+### 💼 What I've Shipped
+
+**Enterprise Web Apps** — Angular dashboards with dynamic data flows, inline CRUD, toggle-based admin panels, and complex multi-dropdown logic, all wired to Node.js + MongoDB backends.
+
+**Android App** *(freelance)* — Flutter-based caller ID app using a multi-tenant SaaS architecture with third-party accounting API integration, built for a Canadian client.
+
+**Headless eCommerce Site** *(freelance)* — WordPress + Next.js rebuild with full proposal, architecture, and delivery — solo.
+
+**Freelance Tracker Dashboard** — React app to manage my own project pipeline, milestones, and payment tracking.
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hrshita-kshyp&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrshita-kshyp&theme=tokyonight)
+
+</div>
+
+---
+
+### 📬 Reach Me
+
+```
+🌐  portfolio   →  hrshita.online
+🚀  product     →  vyntra-delta.vercel.app
+💼  job hunt    →  open to full-stack / Angular roles
+```
+
+<div align="center">
+<sub>building in public · shipping in phases · always learning</sub>
+</div>
