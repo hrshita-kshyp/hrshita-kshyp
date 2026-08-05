@@ -16,10 +16,10 @@
 ```ts
 const harshita = {
   role      : "Full-Stack Developer",
-  experience: "~1.5 years",
+  experience: "~2 years",
   stack     : ["Angular", "Node.js", "MongoDB", "React", "Next.js", "Flutter"],
   building  : "Vyntra — a predictive health intelligence platform",
-  openTo    : "Full-Stack / Angular roles",
+  openTo    : "Full-Stack roles",
 };
 ```
 
