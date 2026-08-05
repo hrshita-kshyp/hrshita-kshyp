@@ -71,8 +71,6 @@ Most fitness apps count steps. Vyntra computes your **BioAge Score** — your bi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hrshita-kshyp&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrshita-kshyp&theme=tokyonight)
-
 </div>
 
 ---
