@@ -5,7 +5,7 @@
 **full-stack developer** · building real things · open to opportunities
 
 [![Portfolio](https://img.shields.io/badge/hrshita.online-000?style=flat-square&logo=vercel&logoColor=white)](https://hrshita.online)
-[![Vyntra](https://img.shields.io/badge/Vyntra-6C63FF?style=flat-square&logoColor=white)](https://vyntra-delta.vercel.app)
+[![Ranuvo](https://img.shields.io/badge/Ranuvo-000000?style=flat-square&logoColor=white)](https://www.ranuvo.tech/)
 
 </div>
 
