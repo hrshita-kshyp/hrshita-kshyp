@@ -16,9 +16,9 @@
 ```ts
 const harshita = {
   role      : "Full-Stack Developer",
-  experience: "~2 years",
+  experience: "~4 years",
   stack     : ["Angular", "Node.js", "MongoDB", "React", "Next.js", "Flutter"],
-  building  : "Vyntra — a predictive health intelligence platform",
+  building  : "Ranuvo - A software studio that builds custom software, workflow automation, API integrations, and AI-powered systems for growing businesses.",
   openTo    : "Full-Stack roles",
 };
 ```
