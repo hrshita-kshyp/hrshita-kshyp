@@ -1,11 +1,12 @@
 <div align="center">
 
-# hey, I'm Harshita 👋
+# Hey, I'm Harshita 👋
 
-**full-stack developer** · building real things · open to opportunities
+**Full-stack developer · building Ranuvo · shipping practical SaaS products**
 
 [![Portfolio](https://img.shields.io/badge/hrshita.online-000?style=flat-square&logo=vercel&logoColor=white)](https://hrshita.online)
 [![Ranuvo](https://img.shields.io/badge/Ranuvo-000000?style=flat-square&logoColor=white)](https://www.ranuvo.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-kshyp/)
 
 </div>
 
@@ -15,11 +16,12 @@
 
 ```ts
 const harshita = {
-  role      : "Full-Stack Developer",
+  role: "Product-minded Full-Stack Developer",
   experience: "~4 years",
-  stack     : ["Angular", "Node.js", "MongoDB", "React", "Next.js", "Flutter"],
-  building  : "Ranuvo - A software studio that builds custom software, workflow automation, API integrations, and AI-powered systems for growing businesses.",
-  openTo    : "Full-Stack roles",
+  stack: ["Angular", "TypeScript", "Node.js", "React", "Next.js", "MongoDB"],
+  work: ["Web apps", "Workflow automation", "API integrations", "AI systems"],
+  building: ["ApplyWise", "Verum", "Vyntra"],
+  openTo: "Full-stack roles and product collaborations",
 };
 ```
 
@@ -40,28 +42,27 @@ const harshita = {
 
 ---
 
-### 🔥 What I'm Building
+### 🚀 Building at [Ranuvo](https://www.ranuvo.tech/)
 
-#### [Vyntra](https://github.com/hrshita-kshyp/Vyntra) — Predictive Health Intelligence
-> *Know your body. Not just your steps.*
+| Product | What it does | Status |
+| --- | --- | --- |
+| **[ApplyWise](https://get-applywise.vercel.app/)** | A private job application copilot that remembers approved answers, fills repetitive ATS forms, and keeps the candidate in control. | Private beta |
+| **[Verum](https://verum-pied.vercel.app/)** | An evidence-first outreach agent that researches, verifies, and sends only what it can prove. | Proving live |
+| **[Vyntra](https://vyntra-delta.vercel.app/)** | Predictive health intelligence that turns wearable and biometric data into trends worth acting on. | Live preview |
 
-Most fitness apps count steps. Vyntra computes your **BioAge Score** — your biological age based on HRV, sleep, strain, and recovery — and tells you *why* it's changing.
-
-`React 19` `Vite` `Tailwind 4` `Groq (Llama 3.3)` `Supabase` `Google Fit API (coming)`
-
-**Shipping next:** Google Fit OAuth → BioAge algorithm → Stripe → AI Why Engine
+Ranuvo builds practical software, workflow automation, API integrations, and AI-powered systems around real business processes.
 
 ---
 
 ### 💼 What I've Shipped
 
-**Enterprise Web Apps** — Angular dashboards with dynamic data flows, inline CRUD, toggle-based admin panels, and complex multi-dropdown logic, all wired to Node.js + MongoDB backends.
+**Enterprise Web Apps** — Angular dashboards with dynamic data flows, inline CRUD, toggle-based admin panels, and complex multi-dropdown logic, wired to Node.js and MongoDB backends.
 
-**Android App** *(freelance)* — Flutter-based caller ID app using a multi-tenant SaaS architecture with third-party accounting API integration, built for a Canadian client.
+**Android App** *(freelance)* — A Flutter caller ID app using a multi-tenant SaaS architecture with third-party accounting API integration for a Canadian client.
 
-**Headless eCommerce Site** *(freelance)* — WordPress + Next.js rebuild with full proposal, architecture, and delivery — solo.
+**Headless eCommerce Site** *(freelance)* — A WordPress and Next.js rebuild covering proposal, architecture, and solo delivery.
 
-**Freelance Tracker Dashboard** — React app to manage my own project pipeline, milestones, and payment tracking.
+**Freelance Tracker Dashboard** — A React app for managing project pipelines, milestones, and payment tracking.
 
 ---
 
@@ -77,12 +78,10 @@ Most fitness apps count steps. Vyntra computes your **BioAge Score** — your bi
 
 ### 📬 Reach Me
 
-```
-🌐  portfolio   →  hrshita.online
-🚀  product     →  vyntra-delta.vercel.app
-💼  job hunt    →  open to full-stack / Angular roles
-```
+- Portfolio: [hrshita.online](https://hrshita.online)
+- Studio: [ranuvo.tech](https://www.ranuvo.tech/)
+- LinkedIn: [harshita-kshyp](https://www.linkedin.com/in/harshita-kshyp/)
 
 <div align="center">
-<sub>building in public · shipping in phases · always learning</sub>
+<sub>Building in public · shipping in phases · solving practical problems</sub>
 </div>
