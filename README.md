@@ -46,9 +46,9 @@ const harshita = {
 
 | Product | What it does | Status |
 | --- | --- | --- |
-| **[ApplyWise](https://get-applywise.vercel.app/)** | A private job application copilot that remembers approved answers, fills repetitive ATS forms, and keeps the candidate in control. | Private beta |
+| **[ApplyWise](https://applywise.ranuvo.tech)** | A private job application copilot that remembers approved answers, fills repetitive ATS forms, and keeps the candidate in control. | Private beta |
 | **[Verum](https://verum-pied.vercel.app/)** | An evidence-first outreach agent that researches, verifies, and sends only what it can prove. | Proving live |
-| **[Vyntra](https://vyntra-delta.vercel.app/)** | Predictive health intelligence that turns wearable and biometric data into trends worth acting on. | Live preview |
+| **[Vyntra](https://vyntra.ranuvo.tech)** | Predictive health intelligence that turns wearable and biometric data into trends worth acting on. | Live preview |
 
 Ranuvo builds practical software, workflow automation, API integrations, and AI-powered systems around real business processes.
 
